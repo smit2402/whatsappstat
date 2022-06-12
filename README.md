@@ -5,4 +5,4 @@ How to export whatsapp chat .txt file
 3) Click on More
 4) Click on Export Chat
 5) Click on WITHOUT MEDIA option
-6) Save whatsapp chat .txt file or Email file
+6) Save or Email whatsapp chat .txt file
